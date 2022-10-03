@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 29 19:18:27 2022
-
-@author: Anton
-"""
-
 parej = dict()
 n = 1
 while True:

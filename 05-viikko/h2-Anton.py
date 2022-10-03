@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct  2 10:49:23 2022
-
-@author: Anton
-"""
 def k_arvo(lukuja):
     if sum(lukuja) == 0 or len(lukuja) == 0:
         return 0
